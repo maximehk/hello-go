@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/maximeh/stringutil"
+	"github.com/maximehk/stringutil"
 )
 
 func main() {
