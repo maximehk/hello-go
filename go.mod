@@ -1,3 +1,3 @@
-module github.com/maximeh/hello-go
+module github.com/maximehk/hello-go
 
 go 1.14
